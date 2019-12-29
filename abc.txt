@@ -1,0 +1,6 @@
+a="Sankalp"
+b="Chavhan"
+
+echo $a
+
+
